@@ -6,15 +6,14 @@ I build reliable, maintainable web applications and developer-focused tools. My 
 
 ## What I work with
 
-- **Languages:** TypeScript, JavaScript, Python
-- **Frontend:** React, Angular, RxJS, Preact
+- **Languages:** TypeScript, JavaScript, Python, Go
+- **Frontend:** React, Angular, RxJS
 - **Backend & APIs:** Node.js, Bun, tRPC, GraphQL
 - **Tools & Practices:** Docker, Jenkins, Webpack, reusable component design, API integration
 
 ## Featured work
 
 - [**Query Builder**](https://github.com/debasispanda/query-builder) — A dynamic autocomplete query builder built with TypeScript.
-- [**React Query Builder**](https://github.com/debasispanda/react-query-builder) — A React-based dynamic autocomplete query builder.
 - [**Bun UI Kit tRPC**](https://github.com/debasispanda/bun-uikit-trpc) — A note application using Bun, UI Kit, and tRPC.
 - [**Personal Website**](https://github.com/debasispanda/debasispanda.github.io) — My personal website and professional portfolio.
 
