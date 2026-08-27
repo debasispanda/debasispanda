@@ -1,6 +1,6 @@
 # Hi, I'm Debasis Panda 👋
 
-**Software Engineer | TypeScript & JavaScript Developer | Frontend and Full-Stack Engineering**
+**Software Engineer | TypeScript & Python Developer | Full-Stack and AI Engineering**
 
 I build reliable, maintainable web applications and developer-focused tools. My work spans modern frontend development, reusable UI components, API design, and full-stack prototypes.
 
@@ -8,8 +8,8 @@ I build reliable, maintainable web applications and developer-focused tools. My 
 
 - **Languages:** TypeScript, JavaScript, Python, Go
 - **Frontend:** React, Angular, RxJS
-- **Backend & APIs:** Node.js, Bun, tRPC, GraphQL
-- **Tools & Practices:** Docker, Jenkins, Webpack, reusable component design, API integration
+- **Backend & APIs:** Node.js, Bun, tRPC, GraphQL, FastAPI
+- **Tools & Practices:** Docker, AWS, Github Actions, Microservices and Microfrontends, API integration
 
 ## Featured work
 
@@ -22,7 +22,8 @@ I build reliable, maintainable web applications and developer-focused tools. My 
 - Designing intuitive developer tools and user experiences
 - Building scalable frontend architectures
 - Creating reusable UI libraries and components
-- Exploring modern TypeScript ecosystems and full-stack technologies
+- Sharing practical solutions to real engineering problems
+- Exploring modern TypeScript, AI, and cloud-native technologies
 
 ## Connect
 
